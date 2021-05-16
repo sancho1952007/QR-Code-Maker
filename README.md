@@ -4,8 +4,9 @@
 
 #Modules to Run
 run the command:
+
 pip install -r requirements.txt
 ---
-This will instal the required Modules
+This will install the required Modules
 
 --Thank You--
