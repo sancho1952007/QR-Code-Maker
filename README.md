@@ -2,8 +2,9 @@
 2) You Are Not Allowed To Sell/Distribute this App.
 3) Use it only for learning purposes.
 
-#Modules to Run
-run the command:
+# Modules to Needed To Run The App
+
+Run the command:
 
 pip install -r requirements.txt
 ---
