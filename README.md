@@ -5,13 +5,10 @@
 
 # Modules to Needed To Run The App
 
-Run the command:
-
--------------------------------
+### Run the command: 
 pip install -r requirements.txt
 
 -------------------------------
 
 This will install the required Modules
-
---Thank You--
+## Thank You
